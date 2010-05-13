@@ -12,17 +12,12 @@ Description
 
 An introduction to profiling python code.
 
-This talk walks through various tools useful for studying why code is
-going slow.
-
 I'll use cProfile, pstats, and RunSnakeRun to find where code is getting
-bogged down in a real-world example,
-
-I'll measure the run-time cost with timeit, refactor, and measure it
-again.
+bogged down in a real-world example.  I'll measure the run-time cost
+with timeit, refactor, and measure it again.
 
 Finally, I'll talk about the limits of python optimization and show how
-to replace some python code with C.
+to replace python code with C.
 
 Extended description
 --------------------
