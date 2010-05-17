@@ -1,0 +1,17 @@
+I'm reading the docs on extending python with C.
+
+It looks like functions defined in C have signuatures like:
+
+    f(*args)
+
+or:
+
+    g(*args, **kwargs)
+
+Is there some way to provide something more specific, like:
+
+   h(a, b, c)
+
+
+I need to look at this cython project.  It seems like a vastly simpler
+way of speeding up code.

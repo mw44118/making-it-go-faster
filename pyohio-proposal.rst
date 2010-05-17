@@ -50,6 +50,7 @@ Outline
     *   People like me that are hooked on code inspection just get
         annoyed
     *   Code won't work in Jython, IronPython, etc
+*   Rewrite that section with Cython instead
 
 Bio
 ---
