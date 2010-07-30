@@ -51,6 +51,8 @@ Outline
         annoyed
     *   Code won't work in Jython, IronPython, etc
 *   Rewrite that section with Cython instead
+*   Run timeit in IronPython
+*   Implement the bottleneck in C#
 
 Bio
 ---
